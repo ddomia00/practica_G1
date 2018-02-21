@@ -1,0 +1,7 @@
+1lunes
+2martes
+3miercoles
+4jueves
+5viernes
+6sabado
+7domingo
